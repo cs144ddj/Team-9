@@ -9,7 +9,7 @@
     tools:context="com.example.darre.team_9.MainActivity">
 
    <EditText
-    android:id="@+id/editSearch"
+    android:id="@+id/EditSearch"
     android:hint="Search..."
     android:layout_width="match_parent"
     android:layout_height="wrap_content" />
