@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_9f56a319a368eb8d7510a4f1aeadfa8c17818f78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_88a1e16ac5b00e3890e191dc07841c6c383fbe0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5584fda8e0098c54a91c86c9fb56e3eadc6a6472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_7674c428e31ee23afd10b2fd3d8355e8f5ce6f33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00a908f447d6cbf81cb474cdccf478d8f7cd9d5a">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7d75a7871747580e70e9994a9738f57f03f16416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e7ad03ab46f748a5262055e8ade3a8d9f975de91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_be2f77423e519eb1a046d5f4aca2becd41501baa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_e6b43645cad1e60dfab7cd7afc59c5b71074972b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_7112da299815fe8974c3394d557df402c9b7e6e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a4d28b5b95d5c90b59c634540d4a1da2f3cf34ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_444e35167dc0f4b11cec3a53943a25eda8dead69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="483c9f14436775a7690c8ca301a942016b2de163">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_05fd5531ba99081caa68ed924f497b906459794e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e04e1384513faad8a6ebb72577ce2b523d06a857\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8dfed69a15de0a7db6ae01e7744085640be8eb65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_33547ec17b1b560e7d39887a7ff196aa39574f0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_07450972c5cdd1e42fb16d8b4a720a48ee6391ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Zel\Desktop\Team-9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_209b451866e1fbb02b88924cf6c6bac2a2b313bf\classes.dex" />
+    </item>
+
+</items>
