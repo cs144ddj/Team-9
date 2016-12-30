@@ -6,16 +6,28 @@
 
 
 
-    <CheckedTextView
+    <!--<CheckedTextView-->
+        <!--android:id="@+id/textView"-->
+        <!--android:layout_margin="8dp"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:checkMark="?android:attr/listChoiceIndicatorMultiple"-->
+        <!--android:padding="5dp"-->
+        <!--android:textAppearance="?android:attr/textAppearanceLarge"-->
+        <!--android:text="Large Text"-->
+        <!--android:layout_weight="0.04"-->
+        <!--android:textStyle="bold"-->
+        <!--/>-->
+
+    <CheckBox
         android:id="@+id/textView"
         android:layout_margin="8dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_vertical"
-        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
         android:padding="5dp"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Large Text"
         android:layout_weight="0.04"
         android:textStyle="bold"
         />
